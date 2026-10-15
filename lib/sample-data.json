@@ -1,0 +1,110 @@
+{
+  "daily": [
+    {
+      "date": "2026-10-01",
+      "sales": 0.0
+    },
+    {
+      "date": "2026-10-02",
+      "sales": 1223.0
+    },
+    {
+      "date": "2026-10-03",
+      "sales": 253.0
+    },
+    {
+      "date": "2026-10-04",
+      "sales": 0.0
+    },
+    {
+      "date": "2026-10-05",
+      "sales": 1714.0
+    },
+    {
+      "date": "2026-10-06",
+      "sales": 1646.0
+    },
+    {
+      "date": "2026-10-07",
+      "sales": 3382.0
+    },
+    {
+      "date": "2026-10-08",
+      "sales": 2617.0
+    },
+    {
+      "date": "2026-10-09",
+      "sales": 2048.0
+    },
+    {
+      "date": "2026-10-10",
+      "sales": 3809.0
+    },
+    {
+      "date": "2026-10-11",
+      "sales": 3127.0
+    },
+    {
+      "date": "2026-10-12",
+      "sales": 1966.0
+    },
+    {
+      "date": "2026-10-13",
+      "sales": 0.0
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-07",
+      "label": "July 2026",
+      "sales": 86459.0
+    },
+    {
+      "month": "2026-08",
+      "label": "August 2026",
+      "sales": 94475.0
+    },
+    {
+      "month": "2026-09",
+      "label": "September 2026",
+      "sales": 103473.0
+    },
+    {
+      "month": "2026-10",
+      "label": "October 2026 (MTD)",
+      "sales": 21785.0
+    }
+  ],
+  "regions": [
+    {
+      "region": "Karachi",
+      "sales": 2767.0
+    },
+    {
+      "region": "Hyderabad",
+      "sales": 1414.0
+    },
+    {
+      "region": "Sukkur",
+      "sales": 1792.0
+    },
+    {
+      "region": "Multan",
+      "sales": 6375.0
+    },
+    {
+      "region": "Faisalabad",
+      "sales": 1560.0
+    },
+    {
+      "region": "Lahore",
+      "sales": 2281.0
+    },
+    {
+      "region": "Islamabad",
+      "sales": 1200.0
+    }
+  ],
+  "updatedAt": "",
+  "source": "Designed & Developed by Mubasher Hasnain\nMezan Tea Pvt Ltd."
+}
