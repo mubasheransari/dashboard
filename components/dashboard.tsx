@@ -261,7 +261,7 @@ export default function Dashboard() {
                 <div className="footer-inner">
           <div>
             <div className="footer-brand"><span className="brand-mark"><Leaf size={18} /></span>Mezan Tea</div>
-            <div>Mezan Tea Pvt Ltd · Plot No. A-22, Mauripur Road, S.I.T.E, Karachi</div>
+            <div>Mezan Tea Pvt Ltd. Plot No. A-22, Mauripur Road, S.I.T.E, Karachi</div>
           </div>
           <div className="footer-right">
 <div>Designed &amp; Developed by Mubasher Hasnain<br />Mezan Tea Pvt Ltd.</div>
